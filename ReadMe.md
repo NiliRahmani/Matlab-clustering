@@ -1,4 +1,4 @@
-Clustering project
+###Clustering project
 
 This is a project which accepts a sequence of values including voltages and tempretures and the purpose of the project is to distinguish which one is positive voltage, which tempreture and which is negative voltage. The pattern of the values are like:
 
